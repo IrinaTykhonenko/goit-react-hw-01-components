@@ -1,0 +1,40 @@
+.container {
+  padding: 10px;
+  width: 370px;
+  background: rgb(248, 245, 245);
+  box-shadow: 0px 2px 1px rgba(0, 0, 0, 0.2), 0px 1px 1px rgba(0, 0, 0, 0.14),
+    0px 1px 3px rgba(0, 0, 0, 0.12);
+  border-radius: 0px 0px 4px 4px;
+}
+.description {
+  color: #000;
+  font-weight: 700;
+  font-size: 14px;
+  text-align: center;
+}
+
+.avatar {
+  width: 160px;
+  border-radius: 100%;
+}
+
+.stats {
+  border-top: 1px solid #e4e9f0;
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.stat {
+  border-right: 3px solid #e4e9f0;
+  width: 33%;
+  text-align: center;
+  padding: 18px 5px;
+}
+
+.label {
+  display: block;
+  font-weight: 700;
+}

@@ -1,0 +1,16 @@
+.table {
+  width: 600px;
+  height: 800px;
+  text-align: center;
+  border-radius: 4px;
+  box-shadow: 0 0 6px 0 #adacac;
+  margin: 10px;
+  padding: 10px;
+}
+.thead {
+  font-size: 18px;
+  text-transform: uppercase;
+}
+.tbody {
+  background: #f5d7bf;
+}
